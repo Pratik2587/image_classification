@@ -8,3 +8,6 @@ This image classifier uses the MobileNet model, which is "An architecture which 
 This model has not been re-trained, it uses the pre-trained weights to make predictions. All images are resized to 224x224 pixels (due to the input shape). The predictions are returned with the class names and respective probabilities.
 
 MobileNet Model Architecture
+
+
+![](/MobileNetArchitecture.png)
